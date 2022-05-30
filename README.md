@@ -21,7 +21,7 @@
 
 ## ~~How to deploy catuserbot~~
 ### ~~Heroku Deploy~~
-  - ~~[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TgCatUB/nekopack)~~
+  - ~~[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/satyam123raj66/catuserbot)~~
 
 ### ~~Self host~~
   - ~~[check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)~~
